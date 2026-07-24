@@ -5,7 +5,7 @@ this is for multiple line comment.
 
 """
 
-#use both single quots and double quots
+#use both single quotes and double quotes
 
 
 '''
