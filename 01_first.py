@@ -1,8 +1,11 @@
 print("Hello,World!")
+
+#print(Python) It gives error because Python is not defined as a variable or string.
+
 print(25) 
 
-p = "prabudh"
-for p in "prabudh":
+p = "Python"
+for p in "Python":
     print(p)
 
 print(6**3)
