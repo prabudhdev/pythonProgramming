@@ -1,6 +1,6 @@
 """
 
-Byte code runs fastly.
+Byte code runs fastly. 
  .pyc --> complied python file (fxogen binaries)
  
 
