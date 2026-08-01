@@ -1,4 +1,4 @@
-"""print("Hello,World!")
+print("Hello,World!")
 
 #print(Python) 
 
@@ -20,8 +20,7 @@ print(5%2)
 
 print((5 + 5)*2)
 
-print("python" " " * 10)  #It prints the word python followed by 10 spaces.t
-"""
+print("python" " " * 10)  #It prints the word python followed by 10 spaces.
 
 print("python's library")
 
