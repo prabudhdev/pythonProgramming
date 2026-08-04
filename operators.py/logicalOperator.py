@@ -9,5 +9,3 @@ print("True and False:", True and False)
 print("False and False:", False and False)
 print("False and True:", False and True)
 print("True and True:", True and True)
-
- 
