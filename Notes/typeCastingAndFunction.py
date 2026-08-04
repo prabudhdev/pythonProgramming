@@ -12,3 +12,9 @@ print("Type of c",type(c))
 print(str(a))
 print(int(a))
 print(float(a))
+
+#Input function.
+
+
+name = input("Enter your name : ")
+print("Hello",name)
