@@ -2,7 +2,6 @@
 
 #   Here assigned values are operands.
 
-
 # addition operator'
 
 a = 4  
@@ -10,7 +9,7 @@ b = 6
 
 print(a + b)
 
-# substraction operator 
+# subtraction operator 
 
 a = 4 
 b = 6
@@ -24,7 +23,7 @@ b = 6
 
 print(a * b)
 
-# devision operator  
+# division operator  
 
 a = 4 
 b = 6
