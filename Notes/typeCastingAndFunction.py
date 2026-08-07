@@ -18,3 +18,13 @@ print(float(a))
 
 name = input("Enter your name : ")
 print("Hello",name)
+
+a = input("Enter a number : ")
+b = input("Enter another number : ")
+print(a + b) # it will concatenate the two numbers as strings.
+
+#For sum and other arithmetic operations, we need to convert the input values into integers or floats.
+
+a = int(input("Enter a number : "))
+b = int(input("Enter another number : "))
+print(a + b)
