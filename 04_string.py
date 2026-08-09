@@ -10,3 +10,5 @@ print(name[:4]) # if index  is not mentioned thn it will start from 0 index.
 
 print(name[4:]) # if end index is not mentioned then it will go till the end if the string.
 
+b = "abcdefghijklmnopqrstuvwxyz"
+print(b[0:6:9])
