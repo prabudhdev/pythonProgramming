@@ -20,8 +20,7 @@ d = True  # d is a boolean .
 print(d)
 print(type(d))  # it will print the data type of d.
 
-
-ji 
+ 
 e = None  # e is a none that's means nothing in this.
 print(e)
 print(type(e))  # it will print the data type of e.
