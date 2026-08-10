@@ -1,2 +1,2 @@
 a = "python is   a programming language"
-print(a.find("  "))
+print(a.find("  "))      
