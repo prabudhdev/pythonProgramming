@@ -25,6 +25,15 @@ print(a + b) # it will concatenate the two numbers as strings.
 
 #For sum and other arithmetic operations, we need to convert the input values into integers or floats.
 
-a = int(input("Enter a number : "))
-b = int(input("Enter another number : "))
+def get_int(prompt):
+    while True:
+        value = input(prompt)
+        try:
+            return int(value)
+        except ValueError:
+            print("Please enter a valid integer.")
+
+
+a = get_int("Enter a number : ")
+b = get_int("Enter another number : ")
 print(a + b)
