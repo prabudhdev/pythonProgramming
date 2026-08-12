@@ -1,3 +1,6 @@
 #Tuples are immutable data types .
-a = (1,2,3,4,5,5)
+#Tuple can`t be chnge
+
+a = (1,2,55.6,"harsh","rohan",False)
+print(type(a))
 print(a)
