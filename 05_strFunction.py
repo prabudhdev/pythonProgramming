@@ -10,3 +10,4 @@ print(name.count("python"))
 print(name.strip())
 print(name.isalpha())
 print(name.isnumeric())
+
