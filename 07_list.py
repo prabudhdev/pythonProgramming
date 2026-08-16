@@ -1,5 +1,6 @@
 # In list we can store any type of data.
 # Change in original list.
+#List is a mutable.
 
 ai = ["java","Python",56,44.66,False,"C#"]
 
