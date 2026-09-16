@@ -29,3 +29,4 @@ print("Path: C:\\new_folder\\notes\\\"day1\".txt")
 
 
 print((5, 10, 15, 20, 25, 30, 35, 40, 45, 50))
+print((4,5,6,7,4,))
