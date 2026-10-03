@@ -1,3 +1,5 @@
+#String is immutable in python. It means we cannot change the string once it is created. 
+
 # The string starts with  0 and ends with length - 1.
 
 # s1 = name[index_start:index_end]
