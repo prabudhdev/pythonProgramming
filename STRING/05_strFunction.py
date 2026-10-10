@@ -1,6 +1,8 @@
 name = "   python is programming language  "
 
 print(len(name))
+print(name.endswith("language"))
+print(name.startswith("python"))
 print(name.capitalize())
 print(name.upper())
 print(name.lower())
