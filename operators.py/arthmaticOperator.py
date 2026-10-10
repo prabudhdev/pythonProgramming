@@ -1,4 +1,4 @@
-# + , - , / ,* 
+#   + , - , / ,* 
 
 #   Here assigned values are operands.
 
@@ -15,7 +15,7 @@ a = 4
 b = 6
 
 print(a - b)
-
+ 
 # multiplication operator
 
 a = 4 
